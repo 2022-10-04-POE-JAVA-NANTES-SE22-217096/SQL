@@ -38,3 +38,4 @@ AND canal.name = "général";
 --10. Rechercher le premier message envoyé
 --11. Rechercher tous les utilisateurs ayant un canal en commun avec l'utilisateur 1.
 --12. Rechercher tous les mots de passe de moins de 8 caractères
+
